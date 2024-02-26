@@ -1,10 +1,11 @@
 ## Welcome to KIMHO's Github
+### Hi there 👋
 
+### Contact
 <a href="mailto:kimho5291@gmail.com">
         <img alt="Static Badge" src="https://img.shields.io/badge/gmail-1?style=for-the-badge&logo=gmail&logoColor=%23EA4335&label=kimho5291%40gmail.com&labelColor=white&color=%23EA4335">
     </a>
     
-### Hi there 👋
 
 ## 🔨 Skill Set 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
