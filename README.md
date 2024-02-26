@@ -16,7 +16,6 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/c-1?style=for-the-badge&logo=c&logoColor=white&color=%23A8B9CC">
         <img alt="Static Badge" src="https://img.shields.io/badge/java-1?style=for-the-badge&logoColor=white&color=%23DD0700">
         <img alt="Static Badge" src="https://img.shields.io/badge/javascript-1?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E">
-        <img alt="Static Badge" src="https://img.shields.io/badge/typescript-1?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6">
     </div>
     <!-- Framework -->
     <p><strong>Framework</strong></p>
@@ -62,6 +61,13 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/jquery-1?style=for-the-badge&logo=jquery&logoColor=white&color=%230769AD">
     </div>
     <br>
+    <!-- Study -->
+    <p><strong>Study</strong></p>
+    <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/typescript-1?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6">
+        <img alt="Static Badge" src="https://img.shields.io/badge/jenkins-1?style=for-the-badge&logo=jenkins&logoColor=white&color=%23D24939">
+        <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-1?style=for-the-badge&logo=kubernetes&logoColor=white&color=%23326CE5">
+    </div>
 </div>
 
 <picture>
