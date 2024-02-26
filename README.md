@@ -1,13 +1,16 @@
 ## Welcome to KIMHO's Github
 ### Hi there 👋
 
-## 🔨 Tech 🔨
+## 🔨 Skill Set 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
-    <p><strong>Backend</strong></p>
+    <p><strong>Programing Language</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+        <img alt="Static Badge" src="https://img.shields.io/badge/c-1?style=for-the-badge&logo=c&logoColor=white&color=%23A8B9CC">
+        <img alt="Static Badge" src="https://img.shields.io/badge/java-1?style=for-the-badge&logoColor=white&color=%23DD0700">
+        <img alt="Static Badge" src="https://img.shields.io/badge/javascript-1?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E">
+        <img alt="Static Badge" src="https://img.shields.io/badge/typescript-1?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6">
+
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -20,9 +23,8 @@
     <p><strong>Server</strong></p>
     <div>
         <img alt="Static Badge" src="https://img.shields.io/badge/express-123?style=for-the-badge&logo=express&logoColor=white&color=%23000000">
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
         <img alt="Static Badge" src="https://img.shields.io/badge/nginx-123?style=for-the-badge&logo=nginx&logoColor=white&color=%23009639">
+        
     </div>
     <!-- Tooling/DevOps  -->
     <p><strong>Tooling/DevOps </strong></p>
@@ -31,6 +33,12 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/docker-123?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED">
         <img alt="Static Badge" src="https://img.shields.io/badge/git-123?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
         <img alt="Static Badge" src="https://img.shields.io/badge/gnubash-123?style=for-the-badge&logo=gnubash&logoColor=white&color=%234EAA25">
+    </div>
+    <!-- Environment -->
+    <p><strong>Environment</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
