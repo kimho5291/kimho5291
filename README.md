@@ -48,6 +48,8 @@
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/notion-1?style=for-the-badge&logo=notion&logoColor=white&color=%23000000">
+        <img alt="Static Badge" src="https://img.shields.io/badge/trello-1?style=for-the-badge&logo=trello&logoColor=white&color=%230052CC">
         <img alt="Static Badge" src="https://img.shields.io/badge/html5-1?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
         <img alt="Static Badge" src="https://img.shields.io/badge/jquery-1?style=for-the-badge&logo=jquery&logoColor=white&color=%230769AD">
     </div>
