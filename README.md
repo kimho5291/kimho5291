@@ -1,5 +1,6 @@
 ## Welcome to KIMHO's Github
 ### Hi there 👋
+안녕하세요 백엔드 개발을 하는 김영호입니다.
 
 ### Contact
 <a href="mailto:kimho5291@gmail.com">
