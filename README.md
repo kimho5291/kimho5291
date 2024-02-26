@@ -61,8 +61,8 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/jquery-1?style=for-the-badge&logo=jquery&logoColor=white&color=%230769AD">
     </div>
     <br>
-    <!-- Study -->
-    <p><strong>Study</strong></p>
+    <!-- Study Plan -->
+    <p><strong>Study Plan</strong></p>
     <div>
         <img alt="Static Badge" src="https://img.shields.io/badge/typescript-1?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6">
         <img alt="Static Badge" src="https://img.shields.io/badge/jenkins-1?style=for-the-badge&logo=jenkins&logoColor=white&color=%23D24939">
