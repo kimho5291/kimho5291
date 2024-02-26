@@ -18,10 +18,11 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/react-1?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB">
         <img alt="Static Badge" src="https://img.shields.io/badge/android-1?style=for-the-badge&logo=android&logoColor=white&color=%2334A853">
     </div>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
+    <!-- BackEnd -->
+    <p><strong>BackEnd</strong></p>
     <div>
         <img alt="Static Badge" src="https://img.shields.io/badge/nginx-123?style=for-the-badge&logo=nginx&logoColor=white&color=%23009639">
+        <img alt="Static Badge" src="https://img.shields.io/badge/node.js-1?style=for-the-badge&logo=node.js&logoColor=white&color=%23339933">
     </div>
     <!-- Tooling/DevOps  -->
     <p><strong>Tooling/DevOps </strong></p>
@@ -34,9 +35,9 @@
     <!-- Environment -->
     <p><strong>Environment</strong></p>
     <div>
-        <img alt="Static Badge" src="https://img.shields.io/badge/node.js-1?style=for-the-badge&logo=node.js&logoColor=white&color=%23339933">
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+        <img alt="Static Badge" src="https://img.shields.io/badge/windows-1?style=for-the-badge&logo=windows&logoColor=white&color=%230078D4">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
