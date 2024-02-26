@@ -34,7 +34,7 @@
     <!-- Environment -->
     <p><strong>Environment</strong></p>
     <div>
-        <img alt="Static Badge" src="https://img.shields.io/badge/nodedotjs-1?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%23339933">
+        <img alt="Static Badge" src="https://img.shields.io/badge/node.js-1?style=for-the-badge&logo=node.js&logoColor=white&color=%23339933">
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
