@@ -10,21 +10,18 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/java-1?style=for-the-badge&logoColor=white&color=%23DD0700">
         <img alt="Static Badge" src="https://img.shields.io/badge/javascript-1?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E">
         <img alt="Static Badge" src="https://img.shields.io/badge/typescript-1?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6">
-
     </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
+    <!-- Framework -->
+    <p><strong>Framework</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        <img alt="Static Badge" src="https://img.shields.io/badge/Redis-123?style=for-the-badge&logo=redis&logoColor=white&color=%23DC382D">
-        <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-123?style=for-the-badge&logo=mongodb&logoColor=white&color=%2347A248">
+        <img alt="Static Badge" src="https://img.shields.io/badge/express-123?style=for-the-badge&logo=express&logoColor=white&color=%23000000">
+        <img alt="Static Badge" src="https://img.shields.io/badge/react-1?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB">
+        <img alt="Static Badge" src="https://img.shields.io/badge/android-1?style=for-the-badge&logo=android&logoColor=white&color=%2334A853">
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        <img alt="Static Badge" src="https://img.shields.io/badge/express-123?style=for-the-badge&logo=express&logoColor=white&color=%23000000">
         <img alt="Static Badge" src="https://img.shields.io/badge/nginx-123?style=for-the-badge&logo=nginx&logoColor=white&color=%23009639">
-        
     </div>
     <!-- Tooling/DevOps  -->
     <p><strong>Tooling/DevOps </strong></p>
@@ -37,16 +34,24 @@
     <!-- Environment -->
     <p><strong>Environment</strong></p>
     <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/nodedotjs-1?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%23339933">
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+    </div>
+    <!-- Database -->
+    <p><strong>Database</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img alt="Static Badge" src="https://img.shields.io/badge/Redis-123?style=for-the-badge&logo=redis&logoColor=white&color=%23DC382D">
+        <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-123?style=for-the-badge&logo=mongodb&logoColor=white&color=%2347A248">
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-</div><br>
+        <img alt="Static Badge" src="https://img.shields.io/badge/html5-1?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
+        <img alt="Static Badge" src="https://img.shields.io/badge/jquery-1?style=for-the-badge&logo=jquery&logoColor=white&color=%230769AD">
+    </div>
+    <br>
 </div>
 
 <picture>
