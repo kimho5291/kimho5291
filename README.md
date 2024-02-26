@@ -22,14 +22,15 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/express-123?style=for-the-badge&logo=express&logoColor=white&color=%23000000">
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+        <img alt="Static Badge" src="https://img.shields.io/badge/nginx-123?style=for-the-badge&logo=nginx&logoColor=white&color=%23009639">
     </div>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
+    <!-- Tooling/DevOps  -->
+    <p><strong>Tooling/DevOps </strong></p>
     <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/githubactions-123?style=for-the-badge&logo=githubactions&logoColor=white&color=%232088FF">
+        <img alt="Static Badge" src="https://img.shields.io/badge/docker-123?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED">
+        <img alt="Static Badge" src="https://img.shields.io/badge/git-123?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
+        <img alt="Static Badge" src="https://img.shields.io/badge/gnubash-123?style=for-the-badge&logo=gnubash&logoColor=white&color=%234EAA25">
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
