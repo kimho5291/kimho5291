@@ -14,10 +14,12 @@
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img alt="Static Badge" src="https://img.shields.io/badge/Redis-123?style=for-the-badge&logo=redis&logoColor=white&color=%23DC382D">
+        <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-123?style=for-the-badge&logo=mongodb&logoColor=white&color=%2347A248">
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/express-123?style=for-the-badge&logo=express&logoColor=white&color=%23000000">
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
