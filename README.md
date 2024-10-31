@@ -1,18 +1,17 @@
 ## Welcome to KIMHO's Github
 ### Hi there 👋
-안녕하세요 백엔드 개발을 하는 김영호입니다.<br>
-
-### Contact
+안녕하세요 백엔드 개발을 하는 김영호입니다.<br><br>
 <a href="mailto:kimho5291@gmail.com">
         <img alt="Static Badge" src="https://img.shields.io/badge/gmail-1?style=for-the-badge&logo=gmail&logoColor=%23EA4335&label=kimho5291%40gmail.com&labelColor=white&color=%23EA4335">
     </a>
+<br>
 
 ## 🎉 Open Source Contributions
-1. Swagger
+1. nest/swagger
 - <a href="https://github.com/nestjs/swagger/pull/3127">#3127</a> Add merge-options condition for dtoFileNameSuffix to CLI-Plugin
+<br>
 
-
-## 🔨 Skill Set 
+### 🔨 Skill Set 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Programing Language</strong></p>
