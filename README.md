@@ -6,7 +6,11 @@
 <a href="mailto:kimho5291@gmail.com">
         <img alt="Static Badge" src="https://img.shields.io/badge/gmail-1?style=for-the-badge&logo=gmail&logoColor=%23EA4335&label=kimho5291%40gmail.com&labelColor=white&color=%23EA4335">
     </a>
-    
+
+## 🎉 Open Source Contributions
+1. Swagger
+- <a href="https://github.com/nestjs/swagger/pull/3127">#3127</a> Add merge-options condition for dtoFileNameSuffix to CLI-Plugin
+
 
 ## 🔨 Skill Set 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -62,12 +66,12 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/trello-1?style=for-the-badge&logo=trello&logoColor=white&color=%230052CC">
         <img alt="Static Badge" src="https://img.shields.io/badge/html5-1?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
         <img alt="Static Badge" src="https://img.shields.io/badge/jquery-1?style=for-the-badge&logo=jquery&logoColor=white&color=%230769AD">
-        <img alt="Static Badge" src="https://img.shields.io/badge/elasticsearch-1?logo=elasticsearch&logoColor=%23005571&color=%23000000">
     </div>
     <br>
     <!-- Study Plan -->
-    <p><strong>Study Plan</strong></p>
+    <p><strong>Study</strong></p>
     <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/elasticsearch-1?logo=elasticsearch&logoColor=%23005571&color=%23000000">
         <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-1?style=for-the-badge&logo=kubernetes&logoColor=white&color=%23326CE5">
     </div>
 </div>
