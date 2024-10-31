@@ -71,7 +71,7 @@
     <!-- Study Plan -->
     <p><strong>Study</strong></p>
     <div>
-        <img alt="Static Badge" src="https://img.shields.io/badge/elasticsearch-1?logo=elasticsearch&logoColor=%23005571&color=%23000000">
+        <img alt="Static Badge" src="https://img.shields.io/badge/elasticsearch-1?style=for-the-badge&logo=elasticsearch&logoColor=%23005571&color=%23000000">
         <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-1?style=for-the-badge&logo=kubernetes&logoColor=white&color=%23326CE5">
     </div>
 </div>
