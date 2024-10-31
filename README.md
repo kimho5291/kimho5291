@@ -16,6 +16,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/c-1?style=for-the-badge&logo=c&logoColor=white&color=%23A8B9CC">
         <img alt="Static Badge" src="https://img.shields.io/badge/java-1?style=for-the-badge&logoColor=white&color=%23DD0700">
         <img alt="Static Badge" src="https://img.shields.io/badge/javascript-1?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E">
+        <img alt="Static Badge" src="https://img.shields.io/badge/typescript-123?style=for-the-badge&logo=typescript&logoColor=%233178C6">
     </div>
     <!-- Framework -->
     <p><strong>Framework</strong></p>
@@ -23,6 +24,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/express-123?style=for-the-badge&logo=express&logoColor=white&color=%23000000">
         <img alt="Static Badge" src="https://img.shields.io/badge/react-1?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB">
         <img alt="Static Badge" src="https://img.shields.io/badge/android-1?style=for-the-badge&logo=android&logoColor=white&color=%2334A853">
+        <img alt="Static Badge" src="https://img.shields.io/badge/nestjs-123?style=for-the-badge&logo=nestjs&logoColor=%23E0234E">
     </div>
     <!-- BackEnd -->
     <p><strong>BackEnd</strong></p>
@@ -37,6 +39,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/docker-123?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED">
         <img alt="Static Badge" src="https://img.shields.io/badge/git-123?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
         <img alt="Static Badge" src="https://img.shields.io/badge/gnubash-123?style=for-the-badge&logo=gnubash&logoColor=white&color=%234EAA25">
+        <img alt="Static Badge" src="https://img.shields.io/badge/jenkins-123?style=for-the-badge&logo=jenkins&logoColor=%23D24939">
     </div>
     <!-- Environment -->
     <p><strong>Environment</strong></p>
@@ -59,13 +62,12 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/trello-1?style=for-the-badge&logo=trello&logoColor=white&color=%230052CC">
         <img alt="Static Badge" src="https://img.shields.io/badge/html5-1?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
         <img alt="Static Badge" src="https://img.shields.io/badge/jquery-1?style=for-the-badge&logo=jquery&logoColor=white&color=%230769AD">
+        <img alt="Static Badge" src="https://img.shields.io/badge/jquery-1?style=for-the-badge&logo=jquery&logoColor=white&color=%230769AD">
     </div>
     <br>
     <!-- Study Plan -->
     <p><strong>Study Plan</strong></p>
     <div>
-        <img alt="Static Badge" src="https://img.shields.io/badge/typescript-1?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6">
-        <img alt="Static Badge" src="https://img.shields.io/badge/jenkins-1?style=for-the-badge&logo=jenkins&logoColor=white&color=%23D24939">
         <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-1?style=for-the-badge&logo=kubernetes&logoColor=white&color=%23326CE5">
     </div>
 </div>
