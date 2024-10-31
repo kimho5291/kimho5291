@@ -62,7 +62,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/trello-1?style=for-the-badge&logo=trello&logoColor=white&color=%230052CC">
         <img alt="Static Badge" src="https://img.shields.io/badge/html5-1?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
         <img alt="Static Badge" src="https://img.shields.io/badge/jquery-1?style=for-the-badge&logo=jquery&logoColor=white&color=%230769AD">
-        <img alt="Static Badge" src="https://img.shields.io/badge/jquery-1?style=for-the-badge&logo=jquery&logoColor=white&color=%230769AD">
+        <img alt="Static Badge" src="https://img.shields.io/badge/elasticsearch-1?logo=elasticsearch&logoColor=%23005571&color=%23000000">
     </div>
     <br>
     <!-- Study Plan -->
